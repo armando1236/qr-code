@@ -1,0 +1,13 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+body {
+    background-color: hsl(228, 92%, 86%);
+}
+.top-container {
+    width: 40%;
+    margin:auto;
+    background-color: white;
+    
+}
