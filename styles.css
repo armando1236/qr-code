@@ -3,13 +3,13 @@
 
 
 body {
-    background-color: hsl(228, 92%, 86%);
+    background-color: hsl(228, 97%, 86%);
 }
 .top-container {
     width: 25rem;
     margin:auto;
     background-color: white;
-    border-radius: 25px;
+    border-radius: 15px;
     height: 40rem;
 
 }
@@ -43,7 +43,7 @@ p {
     width: 350px;
     height: 350px;
     margin: 20px 0 0 25px;
-    border-radius: 25px;
+    border-radius: 15px;
     
     
 }
