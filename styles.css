@@ -6,8 +6,15 @@ body {
     background-color: hsl(228, 92%, 86%);
 }
 .top-container {
-    width: 40%;
+    width: 35%;
     margin:auto;
     background-color: white;
-    
+    border-radius: 25px;
+    height: 40rem;
+
+}
+
+p {
+    width: 50%;
+    margin: auto;
 }
